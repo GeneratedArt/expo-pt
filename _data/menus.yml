@@ -1,50 +1,50 @@
 main:
-  - name: "Home"
+  - name: "Receção"
     url: "/"
     weight: 1
-  - name: "About"
-    url: "/about/"
+  - name: "A Propósito"
+    url: "/proposito/"
     weight: 2
-  - name: "Services"
-    url: "/services/"
+  - name: "Serviços"
+    url: "/servicos/"
     weight: 3
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Contato"
+    url: "/contato/"
     weight: 5
-  - name: "/es"
-    url: "https://expo.es.generatedart.com"
+  - name: "/en"
+    url: "https://deco.generatedart.com"
     weight: 6
-  - name: "/pt"
-    url: "https://expo.pt.generatedart.com"
+  - name: "/es"
+    url: "https://deco.es.generatedart.com"
     weight: 7
   - name: "/fr"
-    url: "https://expo.fr.generatedart.com"
+    url: "https://deco.fr.generatedart.com"
     weight: 8
   - name: "/de"
-    url: "https://expo.de.generatedart.com"
+    url: "https://deco.de.generatedart.com"
     weight: 9
   - name: "/it"
-    url: "https://expo.it.generatedart.com"
+    url: "https://deco.it.generatedart.com"
     weight: 10
 
 footer:
-  - name: "Main site"
+  - name: "Site Principal"
     url: "https://generatedart.com"
     weight: 1
   - name: "Shop"
     url: "https://shop.generatedart.com"
     weight: 2
-  - name: "Exposition"
-    url: "https://expo.generatedart.com"
+  - name: "Exposição"
+    url: "https://expo.pt.generatedart.com"
     weight: 3
-  - name: "Decoration"
-    url: "https://deco.generatedart.com"
+  - name: "Decoração"
+    url: "https://deco.pt.generatedart.com"
     weight: 4
-  - name: "Research"
+  - name: "Pesquisa"
     url: "https://medium.com/generatedart"
     weight: 5
-  - name: "Apply"
-    url: "/apply/"
+  - name: "Aplicar"
+    url: "/aplicar/"
     weight: 6
 
 
