@@ -12,19 +12,19 @@ main:
     url: "/contato/"
     weight: 5
   - name: "/en"
-    url: "https://deco.generatedart.com"
+    url: "https://expo.generatedart.com"
     weight: 6
   - name: "/es"
-    url: "https://deco.es.generatedart.com"
+    url: "https://expo.es.generatedart.com"
     weight: 7
   - name: "/fr"
-    url: "https://deco.fr.generatedart.com"
+    url: "https://expo.fr.generatedart.com"
     weight: 8
   - name: "/de"
-    url: "https://deco.de.generatedart.com"
+    url: "https://expo.de.generatedart.com"
     weight: 9
   - name: "/it"
-    url: "https://deco.it.generatedart.com"
+    url: "https://expo.it.generatedart.com"
     weight: 10
 
 footer:
